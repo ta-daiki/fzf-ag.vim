@@ -1,6 +1,8 @@
 # fzf-ag.vim
 Easy to show and handle results of the silver searcher on your vim.
 
+![ag-fzf-demo-anim](https://user-images.githubusercontent.com/41136331/72217584-557d2f00-3573-11ea-9ace-7085d6ccca40.gif)
+
 ## Dependencies
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher)
 - [junegunn/fzf](https://github.com/junegunn/fzf)
