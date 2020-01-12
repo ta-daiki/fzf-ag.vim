@@ -25,8 +25,9 @@ This plugin overrides the original :Ag command of fzf.vim
 Above command shows a fzf buffer listed ag search results.
 
 In the fzf buffer
+
 |key stroke|behavior                                                                                                                             |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------|
+-----------|--------------------------------------------------------------------------------------------------------------------------------------
 |\<CR\>    | Open a file under the cursor. The file is opened in the current buffer.                                                             |
 |\<C-t\>   | Open a file under the cursor as a new window.                                                                                       |
 |\<C-v\>   | Open a file under the cursor in vertical split mode.                                                                                |
