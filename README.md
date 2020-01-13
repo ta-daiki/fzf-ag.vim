@@ -1,5 +1,6 @@
 # fzf-ag.vim
-Easy to show and handle results of the silver searcher on your vim.
+This vim plugin is wrapper for [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim).  
+You can easily show and handle the ag results.
 
 ![ag-fzf-demo-anim](https://user-images.githubusercontent.com/41136331/72217584-557d2f00-3573-11ea-9ace-7085d6ccca40.gif)
 
